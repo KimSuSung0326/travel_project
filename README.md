@@ -6,9 +6,9 @@
 
 ## 👪Team
 ### Frontend
-| 김수성<br>(Team Reader)                              | 
-|-----------------------------------------------------|  
-[@KimSuSung0326](https://github.com/KimSuSung0326)  |    
+| 김수성<br>(Team Reader)                              | ||
+|-----------------------------------------------------|  ||
+[@KimSuSung0326](https://github.com/KimSuSung0326)  |    ||
 
                                                                                                                                       
 ## ✍Tech Stack
